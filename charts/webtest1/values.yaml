@@ -8,7 +8,7 @@ image:
   repository: mgkaiser/webtest1
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "Build-9"
+  tag: "Build-10"
 
 imagePullSecrets: []
 nameOverride: ""
